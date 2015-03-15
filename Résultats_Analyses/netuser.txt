@@ -1,0 +1,1014 @@
+﻿----------------------------------------
+adoberdr v.20120716
+(NTUSER.DAT) Gets user's Adobe Reader cRecentFiles values
+
+Adoberdr v.20120716
+Adobe Acrobat Reader version 11.0 located.
+Software\Adobe\Acrobat Reader\11.0\AVGeneral\cRecentFiles
+
+Most recent PDF opened: Fri Jan 16 10:00:17 2015 (UTC)
+   c5   /C/Documents and Settings/U015999/Local Settings/Temporary Internet Files/Content.IE5/68D7C121/20101118_Handbook%20Local-T[1].pdf 
+
+
+Applets
+Software\Microsoft\Windows\CurrentVersion\Applets
+LastWrite Time Tue Mar 13 18:48:06 2012 (UTC)
+
+arpcache v.20090413
+(NTUSER.DAT) Retrieves CurrentVersion\App Management\ARPCache entries
+
+Software\Microsoft\Windows\CurrentVersion\App Management\ARPCache
+LastWrite Time Mon Oct  1 10:33:23 2012 (UTC)
+
+Mon Oct  1 10:33:23 2012 (UTC)
+  GoToMeeting
+    -> C:\Program Files\Citrix\GoToMeeting\880\G2MInstaller.exe [Sun Sep  9 08:40:58 2012]
+----------------------------------------
+compdesc v.20080324
+(NTUSER.DAT) Gets contents of user's ComputerDescriptions key
+
+ComputerDescriptions
+Software\Microsoft\Windows\CurrentVersion\Explorer\ComputerDescriptions
+LastWrite Time Thu Nov 21 16:18:25 2013 (UTC)
+  Armony.net   
+  Flo-don-gf01   
+  Flo-don-gf04   
+  flo-dev-lts01   
+  flo-dev-lts01\q   
+  flo-app-intra01   
+  flo-app-intra01.armony.net   
+  flo-don-gf08   
+----------------------------------------
+environment v.20110204
+(NTUSER.DAT) Extracts user's Environment paths from NTUSER.DAT
+
+Environment
+Environment
+LastWrite Time Wed Nov  9 10:28:21 2011 (UTC)
+
+TEMP -> %USERPROFILE%\Local Settings\Temp
+TMP -> %USERPROFILE%\Local Settings\Temp
+ITUserDrive -> X:\%USERNAME%
+----------------------------------------
+ie_settings v.20130731
+(NTUSER.DAT) Gets important user IE settings
+
+Software\Microsoft\Windows\CurrentVersion\Internet Settings
+LastWrite Time Wed Aug 14 08:56:28 2013 (UTC)
+
+User Agent = Mozilla/4.0 (compatible; MSIE 8.0; Win32)
+ZonesSecurityUpgrade = Wed Aug 14 08:56:28 2013 (UTC)
+DaysToKeep = 20
+AutoConfigURL: http://proxypac.usinor.com/chorus.pac
+**Possible malware indicator found!!
+----------------------------------------
+internet_explorer_cu v.20120528
+(NTUSER.DAT) Get HKCU information on Internet Explorer
+
+Software\Microsoft\Internet Explorer
+LastWrite Time Wed Sep 10 19:50:58 2014 (UTC)
+  Download Directory = 'X:\U015999\Desktop'
+
+Software\Microsoft\Internet Explorer\DOMStorage
+LastWrite Time Tue Jan 13 14:58:58 2015 (UTC)
+Subkeys:
+  118000.fr            ---  Tue Jan 13 09:00:29 2015 UTC
+  118218.fr            ---  Tue Aug 20 19:46:50 2013 UTC
+  123pages.fr          ---  Fri Dec 13 08:00:32 2013 UTC
+  12manage.com         ---  Mon Oct 13 09:44:58 2014 UTC
+  20min.ch             ---  Tue Sep  9 20:00:31 2014 UTC
+  3suisses.fr          ---  Wed Oct 22 20:52:30 2014 UTC
+  750g.com             ---  Wed Dec 10 21:09:20 2014 UTC
+  acova.fr             ---  Sat Dec 27 18:16:15 2014 UTC
+  acpa-abri-jardin-finistere.fr ---  Sat Aug 17 04:19:29 2013 UTC
+  addthis.com          ---  Sat Dec 27 18:16:10 2014 UTC
+  adition.com          ---  Tue Aug 20 09:19:50 2013 UTC
+  adnxs.com            ---  Wed Nov 26 21:21:43 2014 UTC
+  afad.fr              ---  Fri Apr  4 12:58:29 2014 UTC
+  alinea.fr            ---  Wed Oct 22 20:36:18 2014 UTC
+  allopneus.com        ---  Wed Nov 13 13:45:11 2013 UTC
+  amazon.fr            ---  Thu Oct  2 04:46:49 2014 UTC
+  antiquites-en-france.com ---  Tue Nov 25 21:03:05 2014 UTC
+  apple.com            ---  Thu Aug 22 07:49:53 2013 UTC
+  arcot.com            ---  Wed Jul  2 19:59:26 2014 UTC
+  aufeminin.com        ---  Mon Dec 23 15:04:25 2013 UTC
+  auto-ies.com         ---  Wed Sep 17 20:14:41 2014 UTC
+  auto-moto.com        ---  Tue Dec 16 21:54:59 2014 UTC
+  auto-motor-und-sport.de ---  Mon Sep 29 19:52:10 2014 UTC
+  automobile-magazine.fr ---  Mon Sep 29 19:50:43 2014 UTC
+  autosport.com        ---  Tue Dec 16 21:42:13 2014 UTC
+  avanis.fr            ---  Tue Dec 16 22:11:44 2014 UTC
+  avendrealouer.fr     ---  Tue Sep 30 20:02:12 2014 UTC
+  azparcsetjardins.com ---  Tue Jul 22 13:32:59 2014 UTC
+  betrad.com           ---  Tue Sep  2 19:22:51 2014 UTC
+  bfmtv.com            ---  Wed Dec 10 20:45:22 2014 UTC
+  bloomberg.com        ---  Wed Apr 16 20:40:08 2014 UTC
+  booking.com          ---  Thu Sep 25 08:09:35 2014 UTC
+  boursorama.com       ---  Wed Dec 17 11:31:36 2014 UTC
+  caradisiac.com       ---  Mon Sep  8 20:14:49 2014 UTC
+  cdiscount.com        ---  Wed Sep  3 20:30:12 2014 UTC
+  cita.lu              ---  Thu Sep 12 15:26:29 2013 UTC
+  citroenracing.com    ---  Wed Dec 10 20:41:56 2014 UTC
+  cloudfront.net       ---  Wed Sep  3 09:27:43 2014 UTC
+  clubic.com           ---  Wed Sep  3 20:37:13 2014 UTC
+  cnn.com              ---  Sat Aug 17 16:13:37 2013 UTC
+  commentcamarche.net  ---  Tue Mar 11 13:53:23 2014 UTC
+  comprendrechoisir.com ---  Mon Sep  8 20:25:02 2014 UTC
+  connexity.net        ---  Thu Jan  2 15:02:33 2014 UTC
+  corsematin.com       ---  Wed Dec 10 20:41:31 2014 UTC
+  creditmutuel.fr      ---  Tue Sep 30 19:54:39 2014 UTC
+  dailyexaminer.com.au ---  Wed Jan 29 18:22:05 2014 UTC
+  dailymotion.com      ---  Thu Aug 22 17:03:17 2013 UTC
+  decision-achats.fr   ---  Mon Sep 29 12:33:37 2014 UTC
+  delamaison.fr        ---  Wed Oct 22 20:52:07 2014 UTC
+  disqus.com           ---  Wed Jan 14 08:06:36 2015 UTC
+  doctissimo.fr        ---  Tue Nov 11 21:09:38 2014 UTC
+  dominox.org          ---  Mon Apr 28 07:05:08 2014 UTC
+  doodle.com           ---  Mon Oct 13 10:51:06 2014 UTC
+  dossierfamilial.com  ---  Wed Nov 26 15:53:29 2014 UTC
+  doubleclick.net      ---  Wed Jan 14 08:08:55 2015 UTC
+  e-monsite.com        ---  Tue Jan 13 14:58:58 2015 UTC
+  easydmp.net          ---  Mon Dec  1 21:25:23 2014 UTC
+  editus.lu            ---  Thu Jul 24 10:42:44 2014 UTC
+  eurolegales.com      ---  Mon Nov 24 20:33:15 2014 UTC
+  europcar.fr          ---  Wed Sep  3 09:27:14 2014 UTC
+  facebook.com         ---  Mon Jan 12 21:45:41 2015 UTC
+  fnac.com             ---  Tue Aug 26 18:36:44 2014 UTC
+  forumpassat.fr       ---  Wed Jan 15 11:48:30 2014 UTC
+  france24.com         ---  Fri Jan  3 13:07:16 2014 UTC
+  franceinfo.fr        ---  Mon Dec 15 21:30:14 2014 UTC
+  francetv.fr          ---  Mon Dec 15 18:40:19 2014 UTC
+  free.fr              ---  Tue Feb 25 21:40:23 2014 UTC
+  ft.com               ---  Wed Nov 26 11:31:57 2014 UTC
+  gaia-editions.com    ---  Thu Oct  2 04:41:37 2014 UTC
+  galerieslafayette.com ---  Fri Jan  3 14:55:07 2014 UTC
+  garmin.com           ---  Mon May 19 09:54:12 2014 UTC
+  gdfsuez.com          ---  Thu Oct 17 16:01:27 2013 UTC
+  gemius.pl            ---  Mon Dec 15 21:42:12 2014 UTC
+  google.fr            ---  Wed Apr  9 19:00:29 2014 UTC
+  googlesyndication.com ---  Tue Nov 25 11:24:25 2014 UTC
+  googleusercontent.com ---  Wed Dec 17 10:31:52 2014 UTC
+  grdf.fr              ---  Fri Dec 20 08:31:53 2013 UTC
+  groupon.fr           ---  Wed Mar  5 07:58:05 2014 UTC
+  guerbet.com          ---  Wed Sep  3 05:19:39 2014 UTC
+  hardware.fr          ---  Mon Dec 15 18:24:21 2014 UTC
+  hautetfort.com       ---  Tue Nov 25 11:23:10 2014 UTC
+  hop.fr               ---  Thu Apr 24 15:06:39 2014 UTC
+  iadvize.com          ---  Tue Aug 26 12:42:10 2014 UTC
+  imrworldwide.com     ---  Wed Sep  3 20:38:34 2014 UTC
+  inrs.fr              ---  Mon Sep  8 16:46:49 2014 UTC
+  journaldunet.com     ---  Mon Nov 24 21:33:24 2014 UTC
+  lacentrale.fr        ---  Wed Aug 27 19:56:29 2014 UTC
+  lalsace.fr           ---  Tue Dec 16 21:44:51 2014 UTC
+  laola1.tv            ---  Mon Sep 23 14:34:27 2013 UTC
+  laredoute.fr         ---  Thu Aug 22 08:55:42 2013 UTC
+  larousse.fr          ---  Thu Jun 26 16:16:32 2014 UTC
+  latribune.fr         ---  Mon Dec 15 21:44:26 2014 UTC
+  lavoixdunord.fr      ---  Mon Jul 21 12:34:47 2014 UTC
+  leadplace.fr         ---  Wed Sep 10 19:34:34 2014 UTC
+  lefigaro.fr          ---  Mon Jan 12 16:32:04 2015 UTC
+  legavox.fr           ---  Wed Nov 26 16:15:35 2014 UTC
+  leicht.com           ---  Tue Nov  4 21:28:37 2014 UTC
+  lemansclassic.com    ---  Mon Jul  7 09:50:32 2014 UTC
+  lemonde.fr           ---  Mon Dec  8 20:40:06 2014 UTC
+  leopolj.fr           ---  Wed Nov 26 21:24:15 2014 UTC
+  lepetitmoutard.fr    ---  Sun Oct 26 18:10:50 2014 UTC
+  lequipe.fr           ---  Tue Dec 16 22:18:57 2014 UTC
+  lesechos.fr          ---  Mon Dec 15 21:22:46 2014 UTC
+  lexpress.fr          ---  Thu Mar 20 08:54:09 2014 UTC
+  linkedin.com         ---  Wed Nov 26 21:17:07 2014 UTC
+  linternaute.com      ---  Fri Oct 17 15:11:44 2014 UTC
+  litetmixe.com        ---  Thu Aug 15 08:53:24 2013 UTC
+  logitheque.com       ---  Mon Dec  8 10:44:38 2014 UTC
+  luxauto.lu           ---  Wed Sep 17 16:08:00 2014 UTC
+  macrumors.com        ---  Wed Sep  3 20:38:34 2014 UTC
+  magicmaman.com       ---  Mon Dec  1 21:28:19 2014 UTC
+  maison-etanche.com   ---  Mon Mar 31 15:10:54 2014 UTC
+  mappy.com            ---  Wed Oct 22 12:44:01 2014 UTC
+  meilleurtaux.com     ---  Tue Dec 16 21:58:30 2014 UTC
+  meteofrance.com      ---  Wed Nov 26 21:14:53 2014 UTC
+  microsoft.com        ---  Mon Dec  8 10:43:14 2014 UTC
+  microsoft.fr         ---  Tue Feb 25 21:40:55 2014 UTC
+  monster.lu           ---  Wed Nov 26 21:05:35 2014 UTC
+  msn.com              ---  Mon Oct  6 10:50:55 2014 UTC
+  mtv.fi               ---  Wed Nov 12 20:32:05 2014 UTC
+  net-iris.fr          ---  Wed Nov 26 15:49:46 2014 UTC
+  nextgen-auto.com     ---  Mon Apr 14 14:28:54 2014 UTC
+  nouvelobs.com        ---  Tue Apr 15 19:59:31 2014 UTC
+  nrk.no               ---  Thu Sep 25 07:56:11 2014 UTC
+  offres-volkswagen.fr ---  Wed Sep 17 10:08:54 2014 UTC
+  ooyala.com           ---  Fri Oct 17 13:54:49 2014 UTC
+  orange.fr            ---  Mon Jan 12 16:31:28 2015 UTC
+  ouest-france.fr      ---  Mon Dec 15 21:34:21 2014 UTC
+  pagesjaunes.fr       ---  Wed Oct  1 09:04:25 2014 UTC
+  parisinfo.com        ---  Tue Apr 15 08:37:07 2014 UTC
+  passat.com           ---  Tue Sep 30 20:32:11 2014 UTC
+  paysdegex-lafaucille.com ---  Mon Apr 14 14:06:18 2014 UTC
+  perene.fr            ---  Wed Oct 22 21:01:23 2014 UTC
+  pointp.fr            ---  Mon Dec 23 17:29:14 2013 UTC
+  popgom.fr            ---  Fri Nov  8 10:06:41 2013 UTC
+  promoneuve.fr        ---  Thu Oct  2 10:17:57 2014 UTC
+  public.fr            ---  Fri Aug 16 09:13:08 2013 UTC
+  purepeople.com       ---  Mon Sep  8 20:37:30 2014 UTC
+  rally-news.fr        ---  Tue Oct 15 10:48:46 2013 UTC
+  renovation-info-service.gouv.fr ---  Wed Oct 16 11:14:05 2013 UTC
+  republicain-lorrain.fr ---  Tue Nov 25 13:06:11 2014 UTC
+  reuters.com          ---  Sat Nov 16 18:13:32 2013 UTC
+  rfihub.com           ---  Mon Sep 29 12:36:01 2014 UTC
+  rtl.fr               ---  Mon Nov 24 10:45:01 2014 UTC
+  rueducommerce.fr     ---  Tue Aug 26 12:52:11 2014 UTC
+  samsung.com          ---  Tue Aug 26 12:27:34 2014 UTC
+  sensagent.com        ---  Thu Nov 27 12:03:23 2014 UTC
+  sixt.fr              ---  Wed Sep 24 14:43:41 2014 UTC
+  sncf.com             ---  Tue Apr 15 08:31:31 2014 UTC
+  stocktwits.com       ---  Sat Aug 17 16:13:26 2013 UTC
+  ted.com              ---  Thu Jun 26 19:55:57 2014 UTC
+  tf1.fr               ---  Mon Sep 29 12:44:38 2014 UTC
+  theinvisiblegorilla.com ---  Tue Sep  9 20:38:36 2014 UTC
+  tikamoon.com         ---  Wed Oct 22 20:43:55 2014 UTC
+  Total                ---  Wed Jan 14 08:08:55 2015 UTC
+  toyota.fr            ---  Thu Oct  2 20:25:38 2014 UTC
+  tripadvisor.fr       ---  Mon Sep  8 19:45:25 2014 UTC
+  twitter.com          ---  Mon Dec 15 20:21:36 2014 UTC
+  ustream.tv           ---  Mon Aug 19 20:37:34 2013 UTC
+  vente-du-diable.com  ---  Thu Aug 22 07:48:00 2013 UTC
+  viadeo.com           ---  Mon Oct  6 19:49:16 2014 UTC
+  viamichelin.fr       ---  Tue Sep 16 09:27:41 2014 UTC
+  vineatransaction.com ---  Thu Oct  2 04:51:42 2014 UTC
+  volkswagen.fr        ---  Tue Sep 30 20:04:58 2014 UTC
+  volkswagenfinance.com.au ---  Mon Sep  8 20:00:50 2014 UTC
+  webmarchand.com      ---  Tue Aug 20 16:39:10 2013 UTC
+  weborama.fr          ---  Sat Dec 27 18:14:34 2014 UTC
+  webrankinfo.com      ---  Tue Aug  5 15:11:50 2014 UTC
+  wikipedia.org        ---  Mon Dec 15 21:03:59 2014 UTC
+  wiktionary.org       ---  Thu Nov 27 12:04:06 2014 UTC
+  wrc.com              ---  Thu Oct  2 20:16:35 2014 UTC
+  www.o2.fr            ---  Mon Dec  1 21:27:02 2014 UTC
+  yahoo.com            ---  Mon Dec 15 13:12:27 2014 UTC
+  yellow.lu            ---  Thu Jul 24 10:43:33 2014 UTC
+  youtube-nocookie.com ---  Tue Jan 28 21:39:57 2014 UTC
+  youtube.com          ---  Tue Dec 16 22:16:13 2014 UTC
+
+Software\Microsoft\Internet Explorer\IETld
+LastWrite Time Wed Aug 14 09:01:09 2013 (UTC)
+  Internet Explorer version = 8.0.6001.18702
+ ----------------------------------------
+internet_settings_cu v.20120528
+(NTUSER.DAT) Get HKCU information on Internet Settings
+
+Software\Microsoft\Windows\CurrentVersion\Internet Settings
+LastWrite Time Wed Aug 14 08:56:28 2013 (UTC)
+  AutoConfigProxy                = wininet.dll
+  AutoConfigURL                  = http://proxypac.usinor.com/chorus.pac
+  DisableCachingOfSSLPages       = false [0]
+  EmailName                      = IEUser@
+  EnableAutodial                 = false [0]
+  EnableHttp1_1                  = true  [1]
+  EnableNegotiate                = true  [1]
+  GlobalUserOffline              = false [0]
+  IE5_UA_Backup_Flag             = 5.0
+  MigrateProxy                   = true  [1]
+  MimeExclusionListForCache      = multipart/mixed multipart/x-mixed-replace multipart/x-byteranges 
+  NoNetAutodial                  = false [0]
+  PrivDiscUiShown                = true  [1]
+  PrivacyAdvanced                = false [0]
+  ProxyEnable                    = true  [1]
+  ProxyHttp1.1                   = true  [1]
+  SecureProtocols                = 160 [0x000000A0]
+  UrlEncoding                    = false [0]
+  UseSchannelDirectly            = 0x01000000
+  User Agent                     = Mozilla/4.0 (compatible; MSIE 8.0; Win32)
+  WarnOnPost                     = 0x01000000
+  WarnOnZoneCrossing             = 0
+  ZonesSecurityUpgrade           = Wed Aug 14 08:56:28 2013 UTC
+
+  
+
+  Software\Microsoft\Windows\CurrentVersion\Internet Settings\5.0\Cache\Extensible Cache\MSHist012015011520150116
+  LastWrite Time Thu Jan 15 07:15:33 2015 (UTC)
+    CacheLimit                = 8192 KB
+    CacheOptions              = 0xB
+    CachePath                 = %USERPROFILE%\Local Settings\History\History.IE5\MSHist012015011520150116
+    CachePrefix               = :2015011520150116: 
+    CacheRepair               = 0x0
+
+  Software\Microsoft\Windows\CurrentVersion\Internet Settings\5.0\Cache\Extensible Cache\MSHist012015011620150117
+  LastWrite Time Fri Jan 16 07:54:40 2015 (UTC)
+    CacheLimit                = 8192 KB
+    CacheOptions              = 0xB
+    CachePath                 = %USERPROFILE%\Local Settings\History\History.IE5\MSHist012015011620150117
+    CachePrefix               = :2015011620150117: 
+    CacheRepair               = 0x0
+
+  Software\Microsoft\Windows\CurrentVersion\Internet Settings\5.0\Cache\Extensible Cache\PrivacIE:
+  LastWrite Time Wed Aug 14 08:59:53 2013 (UTC)
+    CacheLimit                = 1024 KB
+    CacheOptions              = 0x9
+    CachePath                 = %USERPROFILE%\PrivacIE
+    CachePrefix               = PrivacIE:
+    CacheRepair               = 0x0
+
+  Software\Microsoft\Windows\CurrentVersion\Internet Settings\5.0\Cache\Extensible Cache\UserData
+  LastWrite Time Wed Nov  9 12:41:11 2011 (UTC)
+    CacheLimit                = 1000 KB
+    CacheOptions              = 0x8
+    CachePath                 = %USERPROFILE%\UserData
+    CachePrefix               = UserData
+    CacheRepair               = 0x0
+
+ *Software\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap
+  LastWrite Time Wed Aug 14 08:56:28 2013 (UTC)
+    (default)                 = 
+    AutoDetect                = 1
+    IntranetName              = 1
+    ProxyByPass               = 1
+    UNCAsIntranet             = 1
+    -- 'ZoneMap' subkeys -- not parsed:
+      Domains                   Wed Jul  2 06:16:09 2014 UTC
+      EscDomains                Wed Aug 14 08:56:27 2013 UTC
+      ProtocolDefaults          Wed Nov  9 10:43:05 2011 UTC
+      Ranges                    Wed Nov  9 10:43:05 2011 UTC
+
+Subkeys not parsed in 'Software\Microsoft\Windows\CurrentVersion\Internet Settings'
+
+    Cache                ---  Mon Sep  8 20:14:56 2014 UTC
+    Connections          ---  Mon Jan 19 07:21:17 2015 UTC
+    Lockdown_Zones       ---  Wed Nov  9 10:28:21 2011 UTC
+    Passport             ---  Wed Nov  9 10:28:21 2011 UTC
+    TemplatePolicies     ---  Wed Nov  9 10:28:21 2011 UTC
+    Zones                ---  Wed Aug 14 08:56:58 2013 UTC
+
+----------------------------------------
+listsoft v.20080324
+(NTUSER.DAT) Lists contents of user's Software key
+
+listsoft v.20080324
+List the contents of the Software key in the NTUSER.DAT hive
+file, in order by LastWrite time.
+
+Thu Jan 15 09:58:28 2015Z 	Kyocera Mita
+Thu Jan  8 14:51:13 2015Z 	Hewlett-Packard
+Fri Dec 12 13:47:43 2014Z 	FileScout
+Mon Jul  7 06:39:05 2014Z 	Policies
+Wed Jul  2 06:16:09 2014Z 	F5 Networks
+Wed Jun 11 21:14:52 2014Z 	7-Zip
+Thu Mar 20 21:45:46 2014Z 	Microsoft
+Mon Mar 17 12:38:54 2014Z 	UsiPack
+Fri Jan 31 10:34:27 2014Z 	TechSmith
+Thu Dec 19 14:07:33 2013Z 	Adobe
+Thu Dec 19 13:47:29 2013Z 	Wintertree
+Thu Dec 19 13:46:12 2013Z 	SupportSoft
+Wed Dec 11 21:26:56 2013Z 	Nokia
+Thu Dec  5 09:03:51 2013Z 	Hummingbird
+Sun Oct 20 19:29:09 2013Z 	Tableau
+Sun Oct 20 19:27:48 2013Z 	Trolltech
+Thu Sep 12 06:57:55 2013Z 	Canon
+Fri Jun 28 13:03:05 2013Z 	5f48bdfe73ced45
+Thu Jun 20 08:13:53 2013Z 	BabSolution
+Mon Mar 18 17:27:34 2013Z 	CoSoSys
+Fri Mar 15 09:24:08 2013Z 	(null)
+Thu Jan  3 14:10:47 2013Z 	Softonic
+Fri Sep 21 07:46:34 2012Z 	DataMngr
+Fri Sep 21 07:46:34 2012Z 	DataMngr_Toolbar
+Fri Sep 21 07:46:34 2012Z 	mozilla
+Fri Sep 21 07:46:30 2012Z 	BrowserMngr
+Tue Jul  3 13:31:38 2012Z 	Citrix
+Tue Jul  3 13:31:38 2012Z 	VidSoft
+Tue Jun  5 13:20:32 2012Z 	CSC
+Thu May 10 10:13:55 2012Z 	IT
+Thu May 10 08:38:39 2012Z 	KVS
+Mon Feb 20 10:54:00 2012Z 	SAP
+Sat Feb 18 14:05:08 2012Z 	shockwave.com
+Thu Feb  2 12:21:42 2012Z 	Business Objects
+Wed Dec  7 16:16:49 2011Z 	PDFCreator
+Thu Nov 10 08:17:17 2011Z 	Screensaver Factory
+Wed Nov  9 14:19:24 2011Z 	RICOH
+Wed Nov  9 11:33:24 2011Z 	SessionSAP
+Wed Nov  9 11:32:52 2011Z 	McAfee
+Wed Nov  9 10:50:39 2011Z 	Eurelys
+Wed Nov  9 10:50:39 2011Z 	Usinor
+Wed Nov  9 10:50:36 2011Z 	Simba
+Wed Nov  9 10:50:21 2011Z 	Attachmate
+Wed Nov  9 10:50:15 2011Z 	JavaSoft
+Wed Nov  9 10:49:59 2011Z 	SILVERRUN
+Wed Nov  9 10:30:33 2011Z 	Widcomm
+Wed Nov  9 10:30:32 2011Z 	IBM
+Wed Nov  9 10:30:23 2011Z 	Alps
+Wed Nov  9 10:30:23 2011Z 	Andrea Electronics
+Wed Nov  9 10:30:23 2011Z 	Intel
+Wed Nov  9 10:28:21 2011Z 	AppDataLow
+Wed Nov  9 10:28:21 2011Z 	Macromedia
+Wed Nov  9 10:28:21 2011Z 	Netscape
+Wed Nov  9 10:28:21 2011Z 	ODBC
+
+----------------------------------------
+mndmru v.20080324
+(NTUSER.DAT) Get contents of user's Map Network Drive MRU
+
+Map Network Drive MRU
+Software\Microsoft\Windows\CurrentVersion\Explorer\Map Network Drive MRU
+LastWrite Time Thu Nov 21 16:18:25 2013 (UTC)
+  MRUList = a
+  a   \\flo-don-gf08\down
+----------------------------------------
+mp2 v.20120330
+(NTUSER.DAT) Gets user's MountPoints2 key contents
+
+MountPoints2
+Software\Microsoft\Windows\CurrentVersion\Explorer\MountPoints2
+LastWrite Time Thu Dec 19 13:46:26 2013 (UTC)
+
+Remote Drives:
+Thu Dec 19 13:46:26 2013 (UTC)
+  ##FLO-DON-GF08#U015999$
+Thu Nov 21 16:18:25 2013 (UTC)
+  ##flo-don-gf08#down
+Wed Nov  9 10:48:56 2011 (UTC)
+  ##flo-dev-lts01#q
+  ##flo-dev-lts01#q#tma commercial
+Wed Nov  9 10:31:17 2011 (UTC)
+  ##ARMONY.NET#Projet
+  ##FLO-DON-GF01#Projet$
+  ##FLO-DON-GF01#Site
+  ##FLO-DON-GF04#RTC
+  ##FLO-DON-GF04#U015999$
+Wed Nov  9 10:28:21 2011 (UTC)
+  ##DUN-SUP-MDT02.ARMONY.NET#Hermes20$
+
+Volumes:
+Wed Nov  9 10:28:21 2011 (UTC)
+  {e4b22050-bf51-11e0-8f5e-806d6172696f}
+  {e4b22051-bf51-11e0-8f5e-806d6172696f}
+  {e4b22052-bf51-11e0-8f5e-806d6172696f}
+
+Drives:
+Thu Jan 15 07:15:27 2015 (UTC) - L,P
+Fri Dec 12 14:04:00 2014 (UTC) - F
+Fri Feb 14 10:00:49 2014 (UTC) - D
+Mon Mar 18 16:35:20 2013 (UTC) - G
+Wed Nov  9 10:28:25 2011 (UTC) - X
+Wed Nov  9 10:28:21 2011 (UTC) - C,E
+
+Unique MAC Addresses:
+80:6D:61:72:69:6F
+
+----------------------------------------
+muicache v.20130425
+(NTUSER.DAT,USRCLASS.DAT) Gets EXEs from user's MUICache key
+
+Software\Microsoft\Windows\ShellNoRoam\MUICache
+LastWrite Time Mon Jan 19 07:40:43 2015 (UTC)
+  C:\PROGRA~1\MICROS~2\Office12\OIS.EXE (Microsoft Office Picture Manager)
+  C:\WINNT\system32\shimgvw.dll (Windows Picture and Fax Viewer)
+  C:\Program Files\Internet Explorer\IEXPLORE.EXE (Internet Explorer)
+  C:\WINNT\system32\mspaint.exe (Paint)
+  C:\Program Files\Microsoft Office\Office12\POWERPNT.EXE (Microsoft Office PowerPoint)
+  C:\Program Files\Microsoft Office\Office12\EXCEL.EXE (Microsoft Office Excel)
+  C:\Program Files\Microsoft Office\Office12\WINWORD.EXE (Microsoft Office Word)
+  C:\Program Files\Microsoft Office\OFFICE11\OUTLOOK.EXE (Microsoft Office Outlook)
+  C:\Program Files\Adobe\Reader 11.0\Reader\AcroRd32.exe (Adobe Reader )
+  C:\Program Files\Windows NT\Accessories\WORDPAD.EXE (WordPad)
+
+----------------------------------------
+oisc v.20091125
+(NTUSER.DAT) Gets contents of user's Office Internet Server Cache
+
+MSOffice version 12.0 located.
+
+http://dun-app-dom02.appliarmony.net/Prive/Qualite/Sollac-Atl/qual-majd.nsf/All/9E4ED9CCF0BF9530C125788500405DDB/$File/
+  LastWrite : Wed Oct  8 07:26:58 2014 UTC
+  Expiry    : Wed Oct 15 10:06:58 2014 UTC
+  Protocol  : Read-only HTTP
+  Type      : no collaboration
+
+http://dun-app-dom02.appliarmony.net/PRIVE/QUALITE/SOLLAC-LOR/QUAL-MAQ.NSF/All/C125718D002F9E56C1257CB500227632/$File/
+  LastWrite : Wed Oct  8 10:11:26 2014 UTC
+  Expiry    : Mon Oct 20 22:11:26 2014 UTC
+  Protocol  : Read-only HTTP
+  Type      : no collaboration
+
+http://dun-app-dom02.appliarmony.net/PRIVE/QUALITE/SOLLAC-LOR/QUAL-MAQ.NSF/All/C125718D002F9E56C1257ABC0051F8AD/$File/
+  LastWrite : Wed Oct 22 08:29:15 2014 UTC
+  Expiry    : Thu Oct 30 10:40:10 2014 UTC
+  Protocol  : Read-only HTTP
+  Type      : no collaboration
+
+
+
+https://www.myaXXXXXXXXXXXXXX.com/sps1/portal/teamsites/pa_lorraine/Shared%20Documents/Vague%2012%20(3-2012)/Management%20de%20Projet%20Train%20à%20Chaud/6%20-%20Doc.%20Complémentaires/
+  LastWrite : Wed Nov 26 16:53:16 2014 UTC
+  Expiry    : Fri Dec  5 18:13:16 2014 UTC
+  Protocol  : 3
+  Type      : Windows SharePoint Server/SharePoint Portal 2003 Server
+
+http://dun-app-dom02.appliarmony.net/Prive/Qualite/Sollac-Atl/qual-majd.nsf/All/02E475352CF07694C125789B00219B59/$File/
+  LastWrite : Wed Oct  8 07:28:45 2014 UTC
+  Expiry    : Thu Oct 16 08:28:45 2014 UTC
+  Protocol  : Read-only HTTP
+  Type      : no collaboration
+
+
+----------------------------------------
+
+outlook v.20100218
+(NTUSER.DAT) Gets user's Outlook settings
+
+
+AXXXXXXXXXXXXXXXXXX Messaging 2010 Profile
+  Outlook 2007 AutoArchive path -> C:\Documents and Settings\U015999\Local Settings\Application Data\Microsoft\Outlook\archive2.pst
+  Open Other Users MRU (Outlook 2003) -> 
+,fhjlnprtvBerthe, Mathieu (Calendrier)
+  Cached Exchange Mode: 0x184
+  Path to OST file: C:\Documents and Settings\U015999\local settings\application data\microsoft\outlook\outlook.ost
+  Email: Serveur Microsoft Exchange
+  001f0418 -> 
+----------------------------------------
+
+printermru v.20091125
+(NTUSER.DAT) Gets user's Printer Wizard MRU listing
+
+Printers\Settings\Wizard\ConnectMRU
+LastWrite Time Mon Jan 12 14:14:19 2015 (UTC)
+
+Printers listed in MRUList order.
+  g -> \\FLO-IMP-01.armony.net
+  f -> \\mou-don-01
+  e -> \\BAD-IMP-02
+  d -> \\FLO-IMP-02
+  c -> \\FLO-IMP-01
+  b -> \\ORR-DON-01
+  a -> \\FLO-IMP-02.armony.net
+----------------------------------------
+printers v.20090223
+(NTUSER.DAT) Get user's printers
+
+Software\Microsoft\Windows NT\CurrentVersion\PrinterPorts
+LastWrite Time: Thu Jan 15 15:26:37 2015
+
+  \\BAD-IMP-02\PBAD011C (winspool,Ne04:,15,45)
+  \\BAD-IMP-02\PBAD017 (winspool,Ne05:,15,45)
+  \\dun-imp-01\IDUN1231 (winspool,Ne06:,15,45)
+  \\dun-imp-01\PDUN152 (winspool,Ne07:,15,45)
+  \\dun-imp-03\IDUN1567 (winspool,Ne08:,15,45)
+  \\flo-imp-01\I0000599 (winspool,Ne09:,15,45)
+  \\FLO-IMP-01\IFLO0120 (winspool,Ne10:,15,45)
+  \\FLO-IMP-01\IFLO0309 (winspool,Ne11:,15,45)
+  \\flo-imp-01\PFLO001 (winspool,Ne12:,15,45)
+  PDFCreator (winspool,Ne00:,15,45)
+  Microsoft XPS Document Writer (winspool,Ne01:,15,45)
+  \\flo-imp-01\PFLO002 (winspool,Ne13:,15,45)
+  Microsoft Office Document Image Writer (winspool,Ne02:,15,45)
+  \\FLO-IMP-01\PFLO005 (winspool,Ne14:,15,45)
+  Canon iP4800 series (winspool,Ne03:,15,45)
+  \\FLO-IMP-01\PFLO020 (winspool,Ne15:,15,45)
+  AutoVue Document Converter (winspool,FILE:,15,45)
+  \\FLO-IMP-01\PFLO065 (winspool,Ne16:,15,45)
+  \\flo-imp-02\I0000227 (winspool,Ne17:,15,45)
+  \\flo-imp-02\I0000284 (winspool,Ne18:,15,45)
+  \\flo-imp-02\IFLO0441 (winspool,Ne19:,15,45)
+  \\FLO-IMP-02\PFLO008 (winspool,Ne20:,15,45)
+  \\FLO-IMP-02\PFLO022 (winspool,Ne21:,15,45)
+  \\FLO-IMP-02\PFLO035 (winspool,Ne22:,15,45)
+  \\flo-imp-02\PFLO044 (winspool,Ne23:,15,45)
+  \\flo-imp-02\PFLO058 (winspool,Ne24:,15,45)
+  \\fos-imp-01\PFOS006C (winspool,Ne25:,15,45)
+  \\mon-imp-01\IMON0003 (winspool,Ne26:,15,45)
+  \\mon-imp-01\PMON014 (winspool,Ne27:,15,45)
+  \\mou-don-01\IMOU0004 (winspool,Ne28:,15,45)
+  \\ORR-DON-01\PORR001 (winspool,Ne29:,15,45)
+
+Default Printer (via CurrentVersion\Windows): \\flo-imp-02\PFLO058,winspool,Ne24:
+Default Printer (via Printers->DeviceOld): \\flo-imp-02\PFLO058,winspool,Ne24:
+----------------------------------------
+proxysettings v.20081224
+(NTUSER.DAT) Gets contents of user's Proxy Settings
+
+ProxySettings
+Software\Microsoft\Windows\CurrentVersion\Internet Settings
+LastWrite Time Wed Aug 14 08:56:28 2013 (UTC)
+  AutoConfigProxy                wininet.dll                   
+  AutoConfigURL                  http://proxypac.usinor.com/chorus.pac
+  DisableCachingOfSSLPages       0                             
+  EmailName                      IEUser@                       
+  EnableAutodial                 0                             
+  EnableHttp1_1                  1                             
+  EnableNegotiate                1                             
+  GlobalUserOffline              0                             
+  IE5_UA_Backup_Flag             5.0                           
+  MigrateProxy                   1                             
+  MimeExclusionListForCache      multipart/mixed multipart/x-mixed-replace multipart/x-byteranges 
+  NoNetAutodial                  0                             
+  PrivDiscUiShown                1                             
+  PrivacyAdvanced                0                             
+  ProxyEnable                    1                             
+  ProxyHttp1.1                   1                             
+  SecureProtocols                160                           
+  UrlEncoding                    0                             
+  UseSchannelDirectly            1                             
+  User Agent                     Mozilla/4.0 (compatible; MSIE 8.0; Win32)
+  WarnOnPost                     1                             
+  WarnOnZoneCrossing             0                             
+  ZonesSecurityUpgrade           702989092                     
+----------------------------------------
+recentdocs v.20100405
+(NTUSER.DAT) Gets contents of user's RecentDocs key
+
+RecentDocs
+**All values printed in MRUList\MRUListEx order.
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs
+LastWrite Time Fri Jan 16 10:56:11 2015 (UTC)
+  99 = eGEDP Tool Training material.ppt
+  148 = Mgt Projet TàC
+  14 = Vague 'Management de projet TàC' - Document de synthèse.ppt
+  134 = 03 - Lancement Projet
+  97 = Gouvernance Projet.VSD
+  138 = 08 - Documents Complémentaires
+  143 = 20110503_Project Management Handbook[1].pdf
+  114 = Guide Méthodologique Instances - Acteurs.pdf
+  126 = Outils ESI Project Management
+  88 = stakeholder register--simple-v4.4.xls
+  101 = XLSTART
+  118 = PwdMonikerConverter.xla
+  48 = DMintegration.xlam
+  49 = traceability matrix (basic)-v4.4.doc
+  86 = quality plan-v4.4.doc
+  38 = communication plan--detailed-v4.4.doc
+  68 = 01 - Fiche Projet
+  16 = Fiche Projet.pptx
+  145 = Kick-Off Projet - 22012015.pptx
+  122 = 2.2_Roles_MOA_MOE_MOAD.doc
+  132 = (F:) LEXAR
+  61 = A2C SAP PhaseOut IAC v1.5.ppt
+  22 = Présentation projet Finance Gestion - 13012015.pptx
+  0 = 05 - Formation équipe projet
+  64 = 2015 01 15 Présentation Alians.pptx
+  11 = Point AI - 14012015.pptx
+  82 = 20101118_Handbook Local-T[1].pdf
+  57 = Backup Tool
+  94 = BackupTool.hta
+  93 = Organisation formation équipe projet V1.xlsx
+  137 = Processus Métiers et Rôles
+  96 = Atelier 1 -  Atelier Spécifications articles, gammes, plans de contrôle 20&21012015.pptx
+ 
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.doc
+LastWrite Time Fri Jan 16 08:02:45 2015 (UTC)
+MRUListEx = 9,3,5,6,1,2,4,0,8
+  9 = traceability matrix (basic)-v4.4.doc
+  3 = quality plan-v4.4.doc
+  5 = communication plan--detailed-v4.4.doc
+  6 = 2.2_Roles_MOA_MOE_MOAD.doc
+  1 = Synoptique Métier Périmètre Projet.DOC
+  2 = SPEEDER-#1925111--v1-20140616_synoptique_SCM_detaillé_V3.DOC
+  4 = PSDR-#6875--v1-M002S_enonce_du_projet_Basse-Indre_template.DOC
+  0 = ATL-CONTLEG-P-01.doc
+  8 = SPEEDER-#1888725--v3-CR_Atelier_4_-_Interface_Q&P_Pack__Amont_Pack__-_02042014.DOC
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.docx
+LastWrite Time Tue Dec 16 15:44:01 2014 (UTC)
+MRUListEx = 3,1,2,0
+  3 = Extrait Compte Bancaire 10122014.docx
+  1 = LCB.docx
+  2 = Description des Rôle et Responsabilité dans une équipe projet.docx
+  0 = AM TP 2012 BIP - Final document- Marc Schaack.docx
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.edp
+LastWrite Time Tue Nov 15 15:42:04 2011 (UTC)
+MRUListEx = 0
+  0 = Florange.edp
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.hta
+LastWrite Time Thu Jan 15 10:38:02 2015 (UTC)
+MRUListEx = 0
+  0 = BackupTool.hta
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.htm
+LastWrite Time Fri Nov  8 15:10:02 2013 (UTC)
+MRUListEx = 4,3,2,1,0
+  4 = Bache Pignons chauffage.htm
+  3 = Assistance Haute Tension - périmètre Ebange-Florange.htm
+  2 = SLT DUDELANGE.htm
+  1 = Synthèse des phases d'un projet.htm
+  0 = Suivi_RCM.htm
+
+
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.log
+LastWrite Time Wed Jan  4 09:10:52 2012 (UTC)
+MRUListEx = 0
+  0 = hs_err_pid4996.log
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.mht
+LastWrite Time Thu Sep 20 16:28:36 2012 (UTC)
+MRUListEx = 0
+  0 = Kick-Off Pré-Projet Autocontrôle v2.mht
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.MOD
+LastWrite Time Fri Sep 13 08:53:18 2013 (UTC)
+MRUListEx = 1,3,0
+  1 = MOV009.MOD
+  3 = Préparation.MOD
+  0 = MOV007.MOD
+
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.MPP
+LastWrite Time Wed Jan 15 10:20:09 2014 (UTC)
+MRUListEx = 6,8,2,9,1,3,0,7,4,5
+  6 = SPEEDER-#1688434--v1-groupe_2.MPP
+  8 = SPEEDER-#1707738--v6-Planning_Global_Projet.MPP
+  2 = SPEEDER-#1707738--v5-Planning_Global_Projet.MPP
+  9 = SPEEDER-#1707738--v4-Planning_Global_Projet.MPP
+  1 = SPEEDER-#1707738--v3-Planning_Global_Projet.mpp
+  3 = SPEEDER-#1707738--v2-Planning_Global_Projet.MPP
+  0 = SPEEDER-#1707738--v1-Planning_Global_Projet.MPP
+  7 = SPEEDER-#1675140-SLC_TEXTE1-v1-Macro_planing_Sous-Projet_6.MPP
+  4 = SPEEDER-#1674831-SLC_TEXTE1-v1-Sous-Projet_6.MPP
+  5 = SPEEDER-#1707738-SLC_TEXTE1-v1-Planning_Global_Projet.MPP
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.msg
+LastWrite Time Wed Nov 19 13:57:40 2014 (UTC)
+MRUListEx = 0,9,8,6,7,5,4,3,2,1
+  0 = Hip project Conf call.msg
+  9 = Vague 'réduction des coûts de la log. interne FXXXXXXXX' - Liste des activitéslivrables à réaliser.msg
+  8 = RE Etude sur un chantier d'emballage unique H46.msg
+  6 = Vague PA 2014-2 'Réduction des coûts de la logistique interne Florange' -- Analyse RH.msg
+  7 = TR Coils safety storage.msg
+  5 = TR Ligne de Rep et Train de bt bi.msg
+  4 = TR  Augmentation de la capacité de Stockage Coils.msg
+  3 = TR  Atelier Poids moyen Packaging.msg
+  2 = Stock FIP MZ.msg
+  1 = TR Sortie BetaPlanner.msg
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.pdf
+LastWrite Time Fri Jan 16 08:04:14 2015 (UTC)
+MRUListEx = 4,8,2,9,0,3,5,1,7,6
+  4 = 20110503_Project Management Handbook[1].pdf
+  8 = Guide Méthodologique Instances - Acteurs.pdf
+  2 = 20101118_Handbook Local-T[1].pdf
+  9 = PDF-Complet-edition-moselle-nord-thionville-hayange-20141125[1].pdf
+  0 = DEVIS MR KIEFFER DAVID  TRAVAUX ENDUIT PLUS OUVERTURE.pdf
+  3 = Bénéficiaires étrangers.pdf
+  5 = PQSSE - 12122014.pdf
+  1 = Pôle Fiabilité - 12122014.pdf
+  7 = Maintenance - 12122014.pdf
+  6 = Logistique et CPME - 12122014.pdf
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.pps
+LastWrite Time Thu Oct 24 12:32:36 2013 (UTC)
+MRUListEx = 4,3,1,2,0
+  4 = procédure.pps
+  3 = Point_Sécurité_05032012.pps
+  1 = Message_Sécurité_05032012.pps
+  2 = SUP_Pneus danger CF.pps
+  0 = procedure maj point 5 minutes.pps
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.ppsx
+LastWrite Time Sun Jan 29 21:30:14 2012 (UTC)
+MRUListEx = 0
+  0 = PPT Réalisations V2.ppsx
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.ppt
+LastWrite Time Fri Jan 16 10:56:15 2015 (UTC)
+MRUListEx = 1,0,9,3,2,8,4,5,6
+  1 = eGEDP Tool Training material.ppt
+  0 = Vague 'Management de projet TàC' - Document de synthèse.ppt
+  9 = A2C SAP PhaseOut IAC v1.5.ppt
+  3 = SPEEDER-#1900526--v1-2014-01_Modèles.PPT
+  2 = SPEEDER-#1840538--v1-20130530_Présentation_SCM_LOR_à_K_Cauwels.PPT
+  8 = SPEEDER-#1874695--v1-Synthèse_Processus.PPT
+  4 = SPEEDER-#1853031--v2-Diagnostic_-_Gestion_Filière.PPT
+  5 = Pré-Projet Autocontrôle - Vision Cible.ppt
+  6 = Validation Vision Cible - 12122012.ppt
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.pptm
+LastWrite Time Mon Sep 23 09:31:31 2013 (UTC)
+MRUListEx = 0
+  0 = 2012 11 observation changements de poste M&T.pptm
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.pptx
+LastWrite Time Fri Jan 16 07:59:06 2015 (UTC)
+MRUListEx = 3,4,8,7,2,6,9,5,0
+  3 = Fiche Projet.pptx
+  4 = Kick-Off Projet - 22012015.pptx
+  8 = Présentation projet Finance Gestion - 13012015.pptx
+  7 = 2015 01 15 Présentation Alians.pptx
+  2 = Point AI - 14012015.pptx
+  6 = Atelier 1 -  Atelier Spécifications articles, gammes, plans de contrôle 20&21012015.pptx
+  9 = ITW F. Wasilewski - 22122014.pptx
+  5 = Notes 1711.pptx
+  0 = Kick-Off Mouzon - 08012015 diapositive 17 20150112T1529+01.pptx
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.rep
+LastWrite Time Tue Aug  5 12:40:26 2014 (UTC)
+MRUListEx = 3,6,1,2,0,9,5,7,8,4
+  3 = Volumes chargés.rep
+  6 = Suivi Encours Florange par halle.rep
+  1 = Suivi_WIP_Bobines_Flo.rep
+  2 = Volumes expédiés.rep
+  0 = Stock PF.rep
+  9 = SPEEDER-#1655333--v1-Halles_2012.REP
+  5 = Perf Halles.rep
+  7 = BGE _expéditions en cours et à venir.rep
+  8 = Pilotage filière Galva.rep
+  4 = GP_StockTF.rep
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.rtf
+LastWrite Time Wed Jan 14 17:01:44 2015 (UTC)
+MRUListEx = 0,6,4,7,8,5,1,3,2
+  0 = RE Formation Présentation Générale ALIANS.rtf
+  6 = RE H47 Rédaction AF.rtf
+  4 = SELLETTES HALLE 47.rtf
+  7 = FACTURE N 2 KXXXXXXXXX DAVID.rtf
+  8 = CGSIS DKP57 intervention APE5.rtf
+  5 = Modidifications brosses et sécheurs.rtf
+  1 = Liaison N3 DKP57  IFG.rtf
+  3 = RE Réparation des produits BT Basse-Indre au DG50.rtf
+  2 = Modifications thiosulfate DG50.rtf
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.txt
+LastWrite Time Tue Dec 16 15:10:07 2014 (UTC)
+MRUListEx = 9,3,1,5,6,7,4,0,8
+  9 = Coaching André 18112014.txt
+  3 = Notes D. Vallet 05122014.txt
+  1 = EPS 24112014.txt
+  5 = Note RH 19112014.txt
+  6 = Note Réunion F. Dubois 18112014.txt
+  7 = Nouveau Document texte.txt
+  4 = Note ITW D. Hirault 10092014.txt
+  0 = Point Guido 1411.txt
+  8 = COPIL élargi 1811.txt
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.vbs
+LastWrite Time Wed Nov  9 11:33:23 2011 (UTC)
+MRUListEx = 0
+  0 = SessionsSAP.vbs
+
+
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.VSD
+LastWrite Time Fri Jan 16 08:41:40 2015 (UTC)
+MRUListEx = 0,1,4,2,7,5,9,6,3
+  0 = Gouvernance Projet.VSD
+  1 = Workflow Mise à Poids.VSD
+  4 = SPEEDER-#1985800--v1-Processus_Achats-Appro.VSD
+  2 = Processus Achats-Appro.VSD
+  7 = SPEEDER-#1853038--v1-Processus_gérer_les_flux_d_appro_BT_Basse-Indre.VSD
+  5 = SPEEDER-#1885052--v1-Pilotage_qualité_hebdo_TAC_-_filière_Packaging.VSD
+  9 = Workflow MàJ du Modèle de Rotation.vsd
+  6 = Pilotage qualité hebdo TAC - filière Packaging.VSD
+  3 = Schéma Profil'Inox - 20032014.VSD
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.vss
+LastWrite Time Mon Feb 25 08:27:22 2013 (UTC)
+MRUListEx = 0
+  0 = Favoris.vss
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.xls
+LastWrite Time Fri Jan 16 08:03:14 2015 (UTC)
+MRUListEx = 4,5,7,6,9,0,3,2,8
+  4 = stakeholder register--simple-v4.4.xls
+  5 = Contrôles périodiques base de données 2014.xls
+  7 = Access - List of Passwords.xls
+  6 = SPEEDER-#1956176--v1-Evaluation_fin_de_vague.XLS
+  9 = Projet Management Checklist Template.xls
+  0 = Calendrier pointage détachement David KIEFFER.xls
+  3 = KXXXXXXXXXXXX EOY 2014.xls
+  2 = tableau-amortissement.xls
+  8 = Synthèse Processus.XLS
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.xlsx
+LastWrite Time Thu Jan 15 09:30:52 2015 (UTC)
+MRUListEx = 1,0,4,5,6,3,7,8,2
+  1 = Organisation formation équipe projet V1.xlsx
+  0 = KPI.xlsx
+  4 = Matrice RACI.xlsx
+  5 = Classeur1.xlsx
+  6 = QP MZ V1 3.xlsx
+  3 = Répartition des tâches métier Alians.xlsx
+  7 = Listing contacts.xlsx
+  8 = Listing contact.xlsx
+  2 = Gestion archivage et droits d'accès.xlsx
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.xlt
+LastWrite Time Fri Sep 28 15:46:20 2012 (UTC)
+MRUListEx = 0
+  0 = Registre des parties prenantes - Template.xlt
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.zip
+LastWrite Time Tue Dec 16 22:22:29 2014 (UTC)
+MRUListEx = 7,6,5,4,3,2,1,0
+  7 = Nolte_Kuechen_Downloads.zip
+  6 = JUNE 2013 YTD Metric-20130802_16.24 - Second set.zip
+  5 = JUNE 2013 Monthly Metric-20130802_16.23 - Second set.zip
+  4 = UML2.2-Visio2003.zip
+  3 = 20090910 Handbook Local-T.zip
+  2 = Tools ESI.zip
+  1 = GCB DEC Q4 2011_FINISHING.zip
+  0 = Analyse Déclassés 2011 YTD.zip
+
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\NetHood
+LastWrite Time Wed May 22 10:31:56 2013 (UTC)
+MRUListEx = 3,2,1,0
+  3 = \\FLO-DON-GF01\Projet$
+  2 = \\flo-app-intra01.armony.net\Flo-app-intra01
+  1 = \\flo-app-intra01\flo-app-intra01
+  0 = \\ARMONY.NET\Projet
+
+----------------------------------------
+shellfolders v.20090115
+(NTUSER.DAT) Retrieve user Shell Folders values
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders
+LastWrite Time Mon Jan 19 07:24:45 2015 (UTC)
+AppData              X:\U015999\Application Data             
+Cookies              C:\Documents and Settings\U015999\Cookies
+Desktop              X:\U015999\Desktop                      
+Favorites            X:\U015999\Favorites                    
+NetHood              C:\Documents and Settings\U015999\NetHood
+Personal             X:\U015999\My Documents                 
+PrintHood            C:\Documents and Settings\U015999\PrintHood
+Recent               C:\Documents and Settings\U015999\Recent
+SendTo               C:\Documents and Settings\U015999\SendTo
+Start Menu           C:\Documents and Settings\U015999\Start Menu
+Templates            C:\Documents and Settings\U015999\Templates
+Programs             C:\Documents and Settings\U015999\Start Menu\Programs
+Startup              C:\Documents and Settings\U015999\Start Menu\Programs\Startup
+Local Settings       C:\Documents and Settings\U015999\Local Settings
+Local AppData        C:\Documents and Settings\U015999\Local Settings\Application Data
+Cache                C:\Documents and Settings\U015999\Local Settings\Temporary Internet Files
+History              C:\Documents and Settings\U015999\Local Settings\History
+My Pictures                                                  
+Fonts                C:\WINNT\Fonts                          
+My Music                                                     
+CD Burning           C:\Documents and Settings\U015999\Local Settings\Application Data\Microsoft\CD Burning
+My Video                                                     
+Administrative Tools                                         
+----------------------------------------
+typedurls v.20080324
+(NTUSER.DAT) Returns contents of user's TypedURLs key.
+
+TypedURLs
+Software\Microsoft\Internet Explorer\TypedURLs
+LastWrite Time Sat Jan  3 15:41:31 2015 (UTC)
+  url1 -> http://www.bosch-do-it.com/
+  url2 -> http://www.analybourse.com/2014/12/16/22384/echanges-assez-volatils-sur-la-valeur-arce%20lor-mittal/
+  url3 -> www.cdh67.fr
+  url4 -> http://www.analybourse.com/2014/11/22/20631/le-retour-de-arcelor-mittal/
+  url5 -> http://vimeo.com/58662024
+  url6 -> http://www.google.fr/
+  url7 -> http://www.steeluser.com/
+  url8 -> https://w.mykds.com/MA012/6.41.14083.0/arcelormittal/pages/AirRail/AirTrainResults2.aspx
+  url9 -> http://search.live.com/results.aspx?q=PROGRAMME+TV&src=IE-SearchBox&Form=IE8SRC
+  url10 -> http://www.impotsdirects.public.lu/
+  url11 -> http://www.balayeuses-manuelles.com/
+  url12 -> http://nouvellefabrique.fr/
+  url13 -> http://web-flqp/infocentres_bo/Resultats/DPS_Fl_MQA/QHebdoBI/xls
+  url14 -> http://web-flqp/infocentres_bo/Resultats/DPS_Fl_MQA/QHebdoBI/xls/
+  url15 -> http://web-flqp/infocentres_bo/Resultats/DPS_Fl_MQA/RdmtTAB/rapports.htm
+  url16 -> http://www.banque-kolb.fr/
+  url17 -> http://web-usp-formation/
+  url18 -> http://www.eco-reponse-grdf.fr/
+  url19 -> http://renovation-info-service.gouv.fr/
+  url20 -> http://web-toles-fines/MRIE/page%20accueil%20MRIE.htm
+  url21 -> https://www.banque-kolb.fr/
+  url22 -> http://cyberlink.atech.agn/cyberlink.asp?f=voir&l=SPEEDER&d=1776161&u=zzguest
+  url23 -> http://cyberlink.atech.agn/cyberlink.asp?f=voir&l=SPEEDER&d=1770678&u=zzguest
+  url24 -> http://cyberlink.atech.agn/cyberlink.asp?f=voir&l=SPEEDER&d=1769074&u=zzguest
+  url25 -> http://cyberlink.atech.agn/cyberlink.asp?f=voir&l=SPEEDER&d=1758066&u=zzguest
+----------------------------------------
+
+Software\Microsoft\Windows\CurrentVersion\Run
+LastWrite Time Wed Dec 11 21:27:18 2013 (UTC)
+  ctfmon.exe: C:\WINNT\system32\ctfmon.exe
+  PC Suite Tray: "C:\Program Files\Nokia\Nokia PC Suite 7\PCSuite.exe" -onlytray
+
+
+----------------------------------------
+userinfo v.20130513
+(NTUSER.DAT) Gets contents of MS Office UserInfo values
+
+
+Software\Microsoft\Office\Common\UserInfo
+LastWrite Time Mon Jun 16 08:04:05 2014 (UTC)
+  Company         AXXXXXXXXXXXXXXX      
+  UserName        KXXXXXXXXX David       
+  UserInitials    U015999             
+
+Software\Microsoft\Office\11\.0\Common\UserInfo not found.
+
+----------------------------------------
+userlocsvc v.20090411
+(NTUSER.DAT) Displays contents of User Location Service\Client key
+
+Software\Microsoft\User Location Service\Client
+LastWrite Time Wed Jan 18 10:58:00 2012 (UTC)
+
+Email Name      david.kXXXXXXXX@orange.fr       
+First Name      David                         
+Last Name       KXXXXXXX                       
+Location        FXXXXXXXX                     
+Server Name     logon.netmeeting.microsoft.com
+User Name       David KXXXXXXX                 
+Resolve Name    logon.netmeeting.microsoft.com/david.kXXXXXXX@orange.fr
+----------------------------------------
