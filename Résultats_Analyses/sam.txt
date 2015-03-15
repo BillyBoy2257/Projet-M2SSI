@@ -1,0 +1,142 @@
+samparse v.20120722
+(SAM) Parse SAM file for user & group mbrshp info
+
+
+User Information
+-------------------------
+Username        : Administrator [500]
+Full Name       : 
+User Comment    : Built-in account for administering the computer/domain
+Account Type    : Default Admin User
+Account Created : Fri Aug  5 11:01:56 2011 Z
+Last Login Date : Wed Nov  9 07:14:38 2011 Z
+Pwd Reset Date  : Wed Nov  9 08:21:56 2011 Z
+Pwd Fail Date   : Mon Jul 21 10:47:35 2014 Z
+Login Count     : 9
+  --> Password does not expire
+  --> Normal user account
+
+Username        : Guest [501]
+Full Name       : 
+User Comment    : Built-in account for guest access to the computer/domain
+Account Type    : Default Guest Acct
+Account Created : Fri Aug  5 11:01:56 2011 Z
+Last Login Date : Never
+Pwd Reset Date  : Never
+Pwd Fail Date   : Never
+Login Count     : 0
+  --> Password does not expire
+  --> Account Disabled
+  --> Password not required
+  --> Normal user account
+
+Username        : SUPPORT_388945a0 [1002]
+Full Name       : CN=Microsoft Corporation,L=Redmond,S=Washington,C=US
+User Comment    : This is a vendor's account for the Help and Support Service
+Account Type    : Custom Limited Acct
+Account Created : Fri Aug  5 09:05:46 2011 Z
+Last Login Date : Never
+Pwd Reset Date  : Fri Aug  5 09:05:46 2011 Z
+Pwd Fail Date   : Never
+Login Count     : 0
+  --> Password does not expire
+  --> Account Disabled
+  --> Normal user account
+
+Username        : ASPNET [1003]
+Full Name       : ASP.NET Machine Account
+User Comment    : Account used for running the ASP.NET worker process (aspnet_wp.exe)
+Account Type    : Custom Limited Acct
+Account Created : Fri Aug  5 09:17:02 2011 Z
+Last Login Date : Never
+Pwd Reset Date  : Thu Dec  5 08:47:41 2013 Z
+Pwd Fail Date   : Never
+Login Count     : 0
+  --> Password does not expire
+  --> Password not required
+  --> Normal user account
+
+Username        : HelpAssistant [1007]
+Full Name       : Remote Desktop Help Assistant Account
+User Comment    : Account for Providing Remote Assistance
+Account Type    : Custom Limited Acct
+Account Created : Tue Nov  8 15:17:46 2011 Z
+Last Login Date : Never
+Pwd Reset Date  : Tue Nov  8 15:17:46 2011 Z
+Pwd Fail Date   : Never
+Login Count     : 0
+  --> Password does not expire
+  --> Account Disabled
+  --> Normal user account
+
+Username        : cba_anonymous [1010]
+Full Name       : cba_anonymous
+User Comment    : Common Base Agent Anonymous User
+Account Type    : Custom Limited Acct
+Account Created : Mon Jun  2 12:48:12 2014 Z
+Last Login Date : Mon Jul 21 10:47:15 2014 Z
+Pwd Reset Date  : Mon Jul 21 10:44:40 2014 Z
+Pwd Fail Date   : Never
+Login Count     : 217
+  --> Normal user account
+
+-------------------------
+Group Membership Information
+-------------------------
+Group Name    : Power Users [0]
+LastWrite     : Fri Aug  5 11:01:56 2011 Z
+Group Comment : Power Users possess most administrative powers with some restrictions.  Thus, Power Users can run legacy applications in addition to certified applications
+Users         : None
+
+Group Name    : Users [4]
+LastWrite     : Wed Nov  9 07:31:59 2011 Z
+Group Comment : Users are prevented from making accidental or intentional system-wide changes.  Thus, Users can run certified applications, but not most legacy applications
+Users :
+  S-1-5-4
+  S-1-5-11
+  S-1-5-21-154881021-3801484236-188926931-1003
+  S-1-5-21-2842164655-3957589604-2876571664-513
+
+Group Name    : Replicator [0]
+LastWrite     : Fri Aug  5 11:01:56 2011 Z
+Group Comment : Supports file replication in a domain
+Users         : None
+
+Group Name    : Guests [2]
+LastWrite     : Mon Jun  2 12:48:12 2014 Z
+Group Comment : Guests have the same access as members of the Users group by default, except for the Guest account which is further restricted
+Users :
+  S-1-5-21-154881021-3801484236-188926931-1010
+  S-1-5-21-154881021-3801484236-188926931-501
+
+Group Name    : Remote Desktop Users [0]
+LastWrite     : Fri Aug  5 11:01:56 2011 Z
+Group Comment : Members in this group are granted the right to logon remotely
+Users         : None
+
+Group Name    : Backup Operators [0]
+LastWrite     : Fri Aug  5 11:01:56 2011 Z
+Group Comment : Backup Operators can override security restrictions for the sole purpose of backing up or restoring files
+Users         : None
+
+Group Name    : Administrators [4]
+LastWrite     : Wed Nov  9 09:38:23 2011 Z
+Group Comment : Administrators have complete and unrestricted access to the computer/domain
+Users :
+  S-1-5-21-154881021-3801484236-188926931-500
+  S-1-5-21-2842164655-3957589604-2876571664-512
+  S-1-5-21-3793966688-1614287804-2728692580-1825
+  S-1-5-21-2842164655-3957589604-2876571664-80777
+
+Group Name    : Network Configuration Operators [0]
+LastWrite     : Fri Aug  5 11:01:56 2011 Z
+Group Comment : Members in this group can have some administrative privileges to manage configuration of networking features
+Users         : None
+
+Analysis Tips:
+ - For well-known SIDs, see http://support.microsoft.com/kb/243330
+     - S-1-5-4  = Interactive
+     - S-1-5-11 = Authenticated Users
+ - Correlate the user SIDs to the output of the ProfileList plugin
+
+----------------------------------------
