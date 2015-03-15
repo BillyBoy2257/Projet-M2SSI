@@ -60,7 +60,7 @@ User Agent = Mozilla/4.0 (compatible; MSIE 8.0; Win32)
 ZonesSecurityUpgrade = Wed Aug 14 08:56:28 2013 (UTC)
 DaysToKeep = 20
 AutoConfigURL: http://proxypac.usinor.com/chorus.pac
-**Possible malware indicator found!!
+**Possible malware indicator found!
 ----------------------------------------
 internet_explorer_cu v.20120528
 (NTUSER.DAT) Get HKCU information on Internet Explorer
